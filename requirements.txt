@@ -1,1 +1,1 @@
-customtkinter
+pip install customtkinter==6.6.1 pandas==2.1.1 openpyxl==3.1.3
